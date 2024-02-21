@@ -1,20 +1,3 @@
-Waldecir
-ctrl + s = salva
-ctrl + e = explorador de arquivos
-ctrl + d = delete
-ctrl + L = Bloqueia 
-ctrl +
-ctrl +
-ctrl +
-ctrl +
-ctrl +
-ctrl +
-ctrl +
-ctrl +
-ctrl +
-ctrl +
-ctrl +
-ctrl +
-
-
-git init cria uma pasta
+oi 
+senai
+Banco de Dados
